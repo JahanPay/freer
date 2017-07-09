@@ -1,11 +1,11 @@
 <?php
 $pluginData[jahanpay][type] = 'payment';
-$pluginData[jahanpay][name] = 'بانک سامان';
+$pluginData[jahanpay][name] = 'جهان پي';
 $pluginData[jahanpay][uniq] = 'jahanpay';
 $pluginData[jahanpay][description] = 'مخصوص پرداخت با درواز<span lang="fa"> اختصاصی</span> پرداخت <a href="http://jahanpay.me">جهان پی</a>';
 $pluginData[jahanpay][author][name] = 'JahanPay';
 $pluginData[jahanpay][author][url] = 'http://jahanpay.me';
-$pluginData[jahanpay][author][email] = 'systemalert@jahanpay.com';
+$pluginData[jahanpay][author][email] = 'support@jahanpay.com';
 
 
 $pluginData[jahanpay][field][config][1][title] = 'API';
